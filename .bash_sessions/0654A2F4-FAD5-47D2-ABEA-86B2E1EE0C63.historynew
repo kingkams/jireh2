@@ -1,0 +1,13 @@
+ls
+ls
+cd
+ls
+cd khdg
+source bin/activate
+ls
+cd django_bookmarks
+ python3 manage.py runserver
+python3 manage.py .migrate
+source deactivate
+python3 manage.py runserver
+ls

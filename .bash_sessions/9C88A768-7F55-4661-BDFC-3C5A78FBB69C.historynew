@@ -1,0 +1,5 @@
+pip install pipenv
+deactivate
+source deactivate
+pip3 install pipenv
+pip3  install numpy

@@ -1,0 +1,2 @@
+conda activate /opt/anaconda3/envs/nmlear
+conda activate /opt/anaconda3/envs/nmlearn

@@ -1,0 +1,4 @@
+/Users/kams/opt/anaconda3/lib/python3.7/site-packages/glue_vispy_viewers/extern/vispy/visuals/line/line.py:397: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  ('color', np.float32, 4)])
+/Users/kams/opt/anaconda3/lib/python3.7/site-packages/glue_vispy_viewers/extern/vispy/visuals/line/arrow.py:55: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  ('linewidth', np.float32, 1)

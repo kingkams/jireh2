@@ -1,0 +1,24 @@
+rm -i ~/.profile ~/.bash
+rm -i ~/.profile ~/.bash*
+rm -i ~/.profile ~/.bash*
+deactivate
+conda deactivate
+python --version
+python3.7.6
+python3.7
+python3.7
+/var/folders/c8/xlsgt50n74l11350r1wypwv80000gn/T/spyder-kams/run_spyder_28a_fws4.sh ; exit;
+python3.7.6
+|
+/Users/kams/Desktop/VirtualBox_Uninstall.tool ; exit;
+last login
+soyder
+spyder
+/Applications/Python\ 3.9/Update\ Shell\ Profile.command ; exit;
+source activate machlearn
+ls
+'
+source /opt/anaconda3/bin/activate
+conda activate base
+source /opt/anaconda3/bin/activate
+conda activate base

@@ -1,0 +1,12 @@
+conda deactivate
+pip install pipenv
+get pip.py
+python -m install upgrade
+ python -m install --upgrade
+python -n install --upgrade
+python -m install --upgrade
+python -m install --upgrade
+pip install --user pipenv
+python -m pip install pipenv
+python -m pip install --upgrade pip
+sudo pip install pipenv

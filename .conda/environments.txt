@@ -1,0 +1,7 @@
+/Users/kams/opt/anaconda3
+/opt/anaconda3
+/Users/kams/.conda/envs/pythonProject3
+/Users/kams/.conda/envs/machlearn
+/Users/kams/.conda/envs/python.app
+/opt/anaconda3/envs/nmlearn
+/opt/anaconda3/envs/pythonProject

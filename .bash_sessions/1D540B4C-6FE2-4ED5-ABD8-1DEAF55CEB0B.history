@@ -1,0 +1,33 @@
+rm -i ~/.profile ~/.bash
+rm -i ~/.profile ~/.bash*
+rm -i ~/.profile ~/.bash*
+deactivate
+conda deactivate
+python --version
+python3.7.6
+python3.7
+python3.7
+/var/folders/c8/xlsgt50n74l11350r1wypwv80000gn/T/spyder-kams/run_spyder_28a_fws4.sh ; exit;
+python3.7.6
+|
+/Users/kams/Desktop/VirtualBox_Uninstall.tool ; exit;
+last login
+soyder
+spyder
+/Applications/Python\ 3.9/Update\ Shell\ Profile.command ; exit;
+source activate machlearn
+ls
+'
+source /opt/anaconda3/bin/activate
+conda activate base
+source /opt/anaconda3/bin/activate
+conda activate base
+ /usr/bin/env /opt/anaconda3/bin/python /Users/kams/.vscode/extensions/ms-python.python-2020.9.114305/pythonFiles/lib/python/debugpy/launcher 59796 -- /opt/anaconda3/envs/newmat.py 
+source /opt/anaconda3/bin/activate
+conda activate base
+pip install scipy
+/usr/bin/python /Users/kams/.vscode/extensions/ms-python.python-2020.9.114305/pythonFiles/pyvsc-run-isolated.py pip install -U "pylint<2.0.0" --user
+jupyter
+jupyter lab
+pip install keran
+conda install -c conda-forge opencv
