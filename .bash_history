@@ -245,3 +245,8 @@ python audb
 python audb.py
 python pdfbook.py
 pip freeze
+npx create react app my-app
+npm start
+yarn start
+conda deactivate
+yarn start
